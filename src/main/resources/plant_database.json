@@ -1,0 +1,912 @@
+[
+  {
+    "common name": "Wilkes' acalypha",
+    "scientific name": "Acalypha wilkesiana",
+    "h or w": "h",
+    "leps": "5",
+    "spread": null,
+    "light": null,
+    "soil": null,
+    "moisture": null,
+    "height": null,
+    "growth_data": {
+      "description": null,
+      "sowing": null,
+      "days_to_harvest": null,
+      "row_spacing": {
+        "cm": null
+      },
+      "spread": {
+        "cm": null
+      },
+      "ph_maximum": null,
+      "ph_minimum": null,
+      "light": null,
+      "atmospheric_humidity": null,
+      "growth_months": null,
+      "bloom_months": null,
+      "fruit_months": null,
+      "minimum_precipitation": {
+        "mm": null
+      },
+      "maximum_precipitation": {
+        "mm": null
+      },
+      "minimum_root_depth": {
+        "cm": null
+      },
+      "minimum_temperature": {
+        "deg_f": null,
+        "deg_c": null
+      },
+      "maximum_temperature": {
+        "deg_f": null,
+        "deg_c": null
+      },
+      "soil_nutriments": null,
+      "soil_salinity": null,
+      "soil_texture": null,
+      "soil_humidity": null
+    },
+    "spec_data": {
+      "ligneous_type": null,
+      "growth_form": null,
+      "growth_habit": "Shrub",
+      "growth_rate": null,
+      "average_height": {
+        "cm": null
+      },
+      "maximum_height": {
+        "cm": null
+      },
+      "nitrogen_fixation": null,
+      "shape_and_orientation": null,
+      "toxicity": null
+    }
+  },
+  {
+    "common name": "Common yarrow",
+    "scientific name": "Achillea millefolium",
+    "h or w": "h",
+    "leps": "11",
+    "spread": 45,
+    "light": 8,
+    "soil": 4,
+    "moisture": 4,
+    "height": 100,
+    "growth_data": {
+      "description": null,
+      "sowing": "Direct seed. If planting indoors, harden off before transplanting seedlings outside.",
+      "days_to_harvest": null,
+      "row_spacing": {
+        "cm": 45
+      },
+      "spread": {
+        "cm": 45
+      },
+      "ph_maximum": 8.0,
+      "ph_minimum": 6.0,
+      "light": 8,
+      "atmospheric_humidity": 4,
+      "growth_months": null,
+      "bloom_months": null,
+      "fruit_months": null,
+      "minimum_precipitation": {
+        "mm": 203
+      },
+      "maximum_precipitation": {
+        "mm": 1524
+      },
+      "minimum_root_depth": {
+        "cm": 20
+      },
+      "minimum_temperature": {
+        "deg_f": -31,
+        "deg_c": -35
+      },
+      "maximum_temperature": {
+        "deg_f": null,
+        "deg_c": null
+      },
+      "soil_nutriments": 4,
+      "soil_salinity": 1,
+      "soil_texture": 4,
+      "soil_humidity": null
+    },
+    "spec_data": {
+      "ligneous_type": null,
+      "growth_form": "Rhizomatous",
+      "growth_habit": "Forb/herb",
+      "growth_rate": "Moderate",
+      "average_height": {
+        "cm": 100
+      },
+      "maximum_height": {
+        "cm": 100
+      },
+      "nitrogen_fixation": "None",
+      "shape_and_orientation": "Erect",
+      "toxicity": "low"
+    }
+  },
+  {
+    "common name": "White baneberry",
+    "scientific name": "Actaea pachypoda",
+    "h or w": "h",
+    "leps": "3",
+    "spread": null,
+    "light": null,
+    "soil": null,
+    "moisture": null,
+    "height": null,
+    "growth_data": {
+      "description": null,
+      "sowing": null,
+      "days_to_harvest": null,
+      "row_spacing": {
+        "cm": null
+      },
+      "spread": {
+        "cm": null
+      },
+      "ph_maximum": null,
+      "ph_minimum": null,
+      "light": null,
+      "atmospheric_humidity": null,
+      "growth_months": null,
+      "bloom_months": null,
+      "fruit_months": null,
+      "minimum_precipitation": {
+        "mm": null
+      },
+      "maximum_precipitation": {
+        "mm": null
+      },
+      "minimum_root_depth": {
+        "cm": null
+      },
+      "minimum_temperature": {
+        "deg_f": null,
+        "deg_c": null
+      },
+      "maximum_temperature": {
+        "deg_f": null,
+        "deg_c": null
+      },
+      "soil_nutriments": null,
+      "soil_salinity": null,
+      "soil_texture": null,
+      "soil_humidity": null
+    },
+    "spec_data": {
+      "ligneous_type": null,
+      "growth_form": null,
+      "growth_habit": "Forb/herb",
+      "growth_rate": null,
+      "average_height": {
+        "cm": null
+      },
+      "maximum_height": {
+        "cm": null
+      },
+      "nitrogen_fixation": null,
+      "shape_and_orientation": null,
+      "toxicity": null
+    }
+  },
+  {
+    "common name": "Black baneberry",
+    "scientific name": "Actaea racemosa",
+    "h or w": "h",
+    "leps": "3",
+    "spread": null,
+    "light": null,
+    "soil": null,
+    "moisture": null,
+    "height": null,
+    "growth_data": {
+      "description": null,
+      "sowing": null,
+      "days_to_harvest": null,
+      "row_spacing": {
+        "cm": null
+      },
+      "spread": {
+        "cm": null
+      },
+      "ph_maximum": null,
+      "ph_minimum": null,
+      "light": null,
+      "atmospheric_humidity": null,
+      "growth_months": null,
+      "bloom_months": null,
+      "fruit_months": null,
+      "minimum_precipitation": {
+        "mm": null
+      },
+      "maximum_precipitation": {
+        "mm": null
+      },
+      "minimum_root_depth": {
+        "cm": null
+      },
+      "minimum_temperature": {
+        "deg_f": null,
+        "deg_c": null
+      },
+      "maximum_temperature": {
+        "deg_f": null,
+        "deg_c": null
+      },
+      "soil_nutriments": null,
+      "soil_salinity": null,
+      "soil_texture": null,
+      "soil_humidity": null
+    },
+    "spec_data": {
+      "ligneous_type": null,
+      "growth_form": null,
+      "growth_habit": "Forb/herb",
+      "growth_rate": null,
+      "average_height": {
+        "cm": null
+      },
+      "maximum_height": {
+        "cm": null
+      },
+      "nitrogen_fixation": null,
+      "shape_and_orientation": null,
+      "toxicity": null
+    }
+  },
+  {
+    "common name": "Joint-vetch",
+    "scientific name": "Aeschynomene americana",
+    "h or w": "h",
+    "leps": "1",
+    "spread": null,
+    "light": null,
+    "soil": null,
+    "moisture": null,
+    "height": null,
+    "growth_data": {
+      "description": null,
+      "sowing": null,
+      "days_to_harvest": null,
+      "row_spacing": {
+        "cm": null
+      },
+      "spread": {
+        "cm": null
+      },
+      "ph_maximum": null,
+      "ph_minimum": null,
+      "light": null,
+      "atmospheric_humidity": null,
+      "growth_months": null,
+      "bloom_months": null,
+      "fruit_months": null,
+      "minimum_precipitation": {
+        "mm": null
+      },
+      "maximum_precipitation": {
+        "mm": null
+      },
+      "minimum_root_depth": {
+        "cm": null
+      },
+      "minimum_temperature": {
+        "deg_f": null,
+        "deg_c": null
+      },
+      "maximum_temperature": {
+        "deg_f": null,
+        "deg_c": null
+      },
+      "soil_nutriments": null,
+      "soil_salinity": null,
+      "soil_texture": null,
+      "soil_humidity": null
+    },
+    "spec_data": {
+      "ligneous_type": null,
+      "growth_form": null,
+      "growth_habit": null,
+      "growth_rate": null,
+      "average_height": {
+        "cm": null
+      },
+      "maximum_height": {
+        "cm": null
+      },
+      "nitrogen_fixation": null,
+      "shape_and_orientation": null,
+      "toxicity": null
+    }
+  },
+  {
+    "common name": null,
+    "scientific name": "Agalinis purpurea",
+    "h or w": "h",
+    "leps": "4",
+    "spread": null,
+    "light": null,
+    "soil": null,
+    "moisture": null,
+    "height": null,
+    "growth_data": {
+      "description": null,
+      "sowing": null,
+      "days_to_harvest": null,
+      "row_spacing": {
+        "cm": null
+      },
+      "spread": {
+        "cm": null
+      },
+      "ph_maximum": null,
+      "ph_minimum": null,
+      "light": null,
+      "atmospheric_humidity": null,
+      "growth_months": null,
+      "bloom_months": null,
+      "fruit_months": null,
+      "minimum_precipitation": {
+        "mm": null
+      },
+      "maximum_precipitation": {
+        "mm": null
+      },
+      "minimum_root_depth": {
+        "cm": null
+      },
+      "minimum_temperature": {
+        "deg_f": null,
+        "deg_c": null
+      },
+      "maximum_temperature": {
+        "deg_f": null,
+        "deg_c": null
+      },
+      "soil_nutriments": null,
+      "soil_salinity": null,
+      "soil_texture": null,
+      "soil_humidity": null
+    },
+    "spec_data": {
+      "ligneous_type": null,
+      "growth_form": null,
+      "growth_habit": null,
+      "growth_rate": null,
+      "average_height": {
+        "cm": null
+      },
+      "maximum_height": {
+        "cm": null
+      },
+      "nitrogen_fixation": null,
+      "shape_and_orientation": null,
+      "toxicity": null
+    }
+  },
+  {
+    "common name": "Blue giant hyssop",
+    "scientific name": "Agastache foeniculum",
+    "h or w": "h",
+    "leps": "3",
+    "spread": null,
+    "light": null,
+    "soil": null,
+    "moisture": null,
+    "height": null,
+    "growth_data": {
+      "description": null,
+      "sowing": null,
+      "days_to_harvest": null,
+      "row_spacing": {
+        "cm": null
+      },
+      "spread": {
+        "cm": null
+      },
+      "ph_maximum": null,
+      "ph_minimum": null,
+      "light": null,
+      "atmospheric_humidity": null,
+      "growth_months": null,
+      "bloom_months": null,
+      "fruit_months": null,
+      "minimum_precipitation": {
+        "mm": null
+      },
+      "maximum_precipitation": {
+        "mm": null
+      },
+      "minimum_root_depth": {
+        "cm": null
+      },
+      "minimum_temperature": {
+        "deg_f": null,
+        "deg_c": null
+      },
+      "maximum_temperature": {
+        "deg_f": null,
+        "deg_c": null
+      },
+      "soil_nutriments": null,
+      "soil_salinity": null,
+      "soil_texture": null,
+      "soil_humidity": null
+    },
+    "spec_data": {
+      "ligneous_type": null,
+      "growth_form": null,
+      "growth_habit": "Subshrub, Forb/herb",
+      "growth_rate": null,
+      "average_height": {
+        "cm": null
+      },
+      "maximum_height": {
+        "cm": null
+      },
+      "nitrogen_fixation": null,
+      "shape_and_orientation": null,
+      "toxicity": null
+    }
+  },
+  {
+    "common name": "Richweed",
+    "scientific name": "Ageratina altissima",
+    "h or w": "h",
+    "leps": "5",
+    "spread": null,
+    "light": null,
+    "soil": null,
+    "moisture": null,
+    "height": null,
+    "growth_data": {
+      "description": null,
+      "sowing": null,
+      "days_to_harvest": null,
+      "row_spacing": {
+        "cm": null
+      },
+      "spread": {
+        "cm": null
+      },
+      "ph_maximum": null,
+      "ph_minimum": null,
+      "light": null,
+      "atmospheric_humidity": null,
+      "growth_months": null,
+      "bloom_months": null,
+      "fruit_months": null,
+      "minimum_precipitation": {
+        "mm": null
+      },
+      "maximum_precipitation": {
+        "mm": null
+      },
+      "minimum_root_depth": {
+        "cm": null
+      },
+      "minimum_temperature": {
+        "deg_f": null,
+        "deg_c": null
+      },
+      "maximum_temperature": {
+        "deg_f": null,
+        "deg_c": null
+      },
+      "soil_nutriments": null,
+      "soil_salinity": null,
+      "soil_texture": null,
+      "soil_humidity": null
+    },
+    "spec_data": {
+      "ligneous_type": null,
+      "growth_form": null,
+      "growth_habit": "Forb/herb",
+      "growth_rate": null,
+      "average_height": {
+        "cm": null
+      },
+      "maximum_height": {
+        "cm": null
+      },
+      "nitrogen_fixation": null,
+      "shape_and_orientation": null,
+      "toxicity": null
+    }
+  },
+  {
+    "common name": null,
+    "scientific name": "Agrimonia eupatoria",
+    "h or w": "",
+    "leps": "h",
+    "spread": null,
+    "light": null,
+    "soil": null,
+    "moisture": null,
+    "height": null,
+    "growth_data": {
+      "description": null,
+      "sowing": null,
+      "days_to_harvest": null,
+      "row_spacing": {
+        "cm": null
+      },
+      "spread": {
+        "cm": null
+      },
+      "ph_maximum": null,
+      "ph_minimum": null,
+      "light": null,
+      "atmospheric_humidity": null,
+      "growth_months": null,
+      "bloom_months": null,
+      "fruit_months": null,
+      "minimum_precipitation": {
+        "mm": null
+      },
+      "maximum_precipitation": {
+        "mm": null
+      },
+      "minimum_root_depth": {
+        "cm": null
+      },
+      "minimum_temperature": {
+        "deg_f": null,
+        "deg_c": null
+      },
+      "maximum_temperature": {
+        "deg_f": null,
+        "deg_c": null
+      },
+      "soil_nutriments": null,
+      "soil_salinity": null,
+      "soil_texture": null,
+      "soil_humidity": null
+    },
+    "spec_data": {
+      "ligneous_type": null,
+      "growth_form": null,
+      "growth_habit": null,
+      "growth_rate": null,
+      "average_height": {
+        "cm": null
+      },
+      "maximum_height": {
+        "cm": null
+      },
+      "nitrogen_fixation": null,
+      "shape_and_orientation": null,
+      "toxicity": null
+    }
+  },
+  {
+    "common name": "Shallot",
+    "scientific name": "Allium cepa",
+    "h or w": "h",
+    "leps": "17",
+    "spread": null,
+    "light": null,
+    "soil": null,
+    "moisture": null,
+    "height": null,
+    "growth_data": {
+      "description": null,
+      "sowing": null,
+      "days_to_harvest": null,
+      "row_spacing": {
+        "cm": null
+      },
+      "spread": {
+        "cm": null
+      },
+      "ph_maximum": null,
+      "ph_minimum": null,
+      "light": null,
+      "atmospheric_humidity": null,
+      "growth_months": null,
+      "bloom_months": null,
+      "fruit_months": null,
+      "minimum_precipitation": {
+        "mm": null
+      },
+      "maximum_precipitation": {
+        "mm": null
+      },
+      "minimum_root_depth": {
+        "cm": null
+      },
+      "minimum_temperature": {
+        "deg_f": null,
+        "deg_c": null
+      },
+      "maximum_temperature": {
+        "deg_f": null,
+        "deg_c": null
+      },
+      "soil_nutriments": null,
+      "soil_salinity": null,
+      "soil_texture": null,
+      "soil_humidity": null
+    },
+    "spec_data": {
+      "ligneous_type": null,
+      "growth_form": null,
+      "growth_habit": "Forb/herb",
+      "growth_rate": null,
+      "average_height": {
+        "cm": null
+      },
+      "maximum_height": {
+        "cm": null
+      },
+      "nitrogen_fixation": null,
+      "shape_and_orientation": null,
+      "toxicity": null
+    }
+  },
+  {
+    "common name": "European alder",
+    "scientific name": "Alnus glutinosa",
+    "h or w": "w",
+    "leps": "164",
+    "spread": null,
+    "light": null,
+    "soil": null,
+    "moisture": null,
+    "height": null,
+    "growth_data": {
+      "description": null,
+      "sowing": null,
+      "days_to_harvest": null,
+      "row_spacing": {
+        "cm": null
+      },
+      "spread": {
+        "cm": null
+      },
+      "ph_maximum": null,
+      "ph_minimum": null,
+      "light": null,
+      "atmospheric_humidity": null,
+      "growth_months": null,
+      "bloom_months": null,
+      "fruit_months": null,
+      "minimum_precipitation": {
+        "mm": null
+      },
+      "maximum_precipitation": {
+        "mm": null
+      },
+      "minimum_root_depth": {
+        "cm": null
+      },
+      "minimum_temperature": {
+        "deg_f": null,
+        "deg_c": null
+      },
+      "maximum_temperature": {
+        "deg_f": null,
+        "deg_c": null
+      },
+      "soil_nutriments": null,
+      "soil_salinity": null,
+      "soil_texture": null,
+      "soil_humidity": null
+    },
+    "spec_data": {
+      "ligneous_type": null,
+      "growth_form": null,
+      "growth_habit": null,
+      "growth_rate": null,
+      "average_height": {
+        "cm": null
+      },
+      "maximum_height": {
+        "cm": null
+      },
+      "nitrogen_fixation": null,
+      "shape_and_orientation": null,
+      "toxicity": null
+    }
+  },
+  {
+    "common name": "Redroot amaranth",
+    "scientific name": "Amaranthus retroflexus",
+    "h or w": "h",
+    "leps": "31",
+    "spread": null,
+    "light": null,
+    "soil": null,
+    "moisture": null,
+    "height": null,
+    "growth_data": {
+      "description": null,
+      "sowing": null,
+      "days_to_harvest": null,
+      "row_spacing": {
+        "cm": null
+      },
+      "spread": {
+        "cm": null
+      },
+      "ph_maximum": null,
+      "ph_minimum": null,
+      "light": null,
+      "atmospheric_humidity": null,
+      "growth_months": null,
+      "bloom_months": null,
+      "fruit_months": null,
+      "minimum_precipitation": {
+        "mm": null
+      },
+      "maximum_precipitation": {
+        "mm": null
+      },
+      "minimum_root_depth": {
+        "cm": null
+      },
+      "minimum_temperature": {
+        "deg_f": null,
+        "deg_c": null
+      },
+      "maximum_temperature": {
+        "deg_f": null,
+        "deg_c": null
+      },
+      "soil_nutriments": null,
+      "soil_salinity": null,
+      "soil_texture": null,
+      "soil_humidity": null
+    },
+    "spec_data": {
+      "ligneous_type": null,
+      "growth_form": null,
+      "growth_habit": "Forb/herb",
+      "growth_rate": null,
+      "average_height": {
+        "cm": null
+      },
+      "maximum_height": {
+        "cm": null
+      },
+      "nitrogen_fixation": null,
+      "shape_and_orientation": null,
+      "toxicity": null
+    }
+  },
+  {
+    "common name": "Red amaranth",
+    "scientific name": "Amaranthus cruentus",
+    "h or w": "h",
+    "leps": "31",
+    "spread": 90,
+    "light": 8,
+    "soil": 3,
+    "moisture": 3,
+    "height": 200,
+    "growth_data": {
+      "description": "Vegetable amaranth is usually grown commercially as a sole crop on beds. It is also found in intercropping systems with food crops and in home gardens. There are 2500\u20133500 seeds/g. The common cultivation practice is sowing in a nursery at a seed rate of 3\u201310 g/m2 and transplanting after 2\u20133 weeks. In this way the grower gets 1000\u20131500 plantlets per m2 for transplanting. A plant density of up to 180 plants/m2 is often practised for harvesting by uprooting or once-over cutting and gives the highest yield. Higher densities result in self-thinning without yield increase. Field experiments in several countries have shown the advantage of a wider spacing, with about 100 plants/m2, the yield being only slightly lower but the labour requirement for transplanting much lower. During the rainy season very dense planting is applied as a buffer to compensate for heavy plant losses caused by Choanephora stem rot. For repeated cuttings a density of about 20 plants/m2 is appropriate. It is also possible to sow directly, either broadcast or in rows with at least 20 cm between the rows, with a seed rate of 2\u20135 g/m2. Direct sowing is the common practice in Nigeria, Uganda and in western Kenya. The plants are uprooted after 3\u20135 weeks. The main advantage is the lower labour costs; however, this method requires more seed, weed competition is more severe and the yield much lower. At harvest, some vigorous plants are left for seed production. For commercial seed production, a distance of 200 m from other Amaranthus cruentus fields is recommended and weedy Amaranthus cruentus or Amaranthus hybridus plants should be removed to avoid outcrossing or mixtures. Grain amaranths are sown directly and thinned to a spacing of not more than 10 plants/m2..",
+      "sowing": "Direct seed, thin seedlings to 15cm",
+      "days_to_harvest": 75,
+      "row_spacing": {
+        "cm": 20
+      },
+      "spread": {
+        "cm": 90
+      },
+      "ph_maximum": 9.0,
+      "ph_minimum": 8.0,
+      "light": 8,
+      "atmospheric_humidity": 3,
+      "growth_months": null,
+      "bloom_months": null,
+      "fruit_months": null,
+      "minimum_precipitation": {
+        "mm": null
+      },
+      "maximum_precipitation": {
+        "mm": null
+      },
+      "minimum_root_depth": {
+        "cm": null
+      },
+      "minimum_temperature": {
+        "deg_f": 23,
+        "deg_c": -5
+      },
+      "maximum_temperature": {
+        "deg_f": 86,
+        "deg_c": 30
+      },
+      "soil_nutriments": 8,
+      "soil_salinity": 0,
+      "soil_texture": 3,
+      "soil_humidity": 3
+    },
+    "spec_data": {
+      "ligneous_type": null,
+      "growth_form": null,
+      "growth_habit": "Forb/herb",
+      "growth_rate": "Rapid",
+      "average_height": {
+        "cm": 200
+      },
+      "maximum_height": {
+        "cm": 2000
+      },
+      "nitrogen_fixation": "None",
+      "shape_and_orientation": "Erect",
+      "toxicity": "low"
+    }
+  },
+  {
+    "common name": "Roman-wormwood",
+    "scientific name": "Ambrosia artemisiifolia",
+    "h or w": "h",
+    "leps": "51",
+    "spread": null,
+    "light": null,
+    "soil": null,
+    "moisture": null,
+    "height": null,
+    "growth_data": {
+      "description": null,
+      "sowing": null,
+      "days_to_harvest": null,
+      "row_spacing": {
+        "cm": null
+      },
+      "spread": {
+        "cm": null
+      },
+      "ph_maximum": null,
+      "ph_minimum": null,
+      "light": null,
+      "atmospheric_humidity": null,
+      "growth_months": null,
+      "bloom_months": null,
+      "fruit_months": null,
+      "minimum_precipitation": {
+        "mm": null
+      },
+      "maximum_precipitation": {
+        "mm": null
+      },
+      "minimum_root_depth": {
+        "cm": null
+      },
+      "minimum_temperature": {
+        "deg_f": null,
+        "deg_c": null
+      },
+      "maximum_temperature": {
+        "deg_f": null,
+        "deg_c": null
+      },
+      "soil_nutriments": null,
+      "soil_salinity": null,
+      "soil_texture": null,
+      "soil_humidity": null
+    },
+    "spec_data": {
+      "ligneous_type": null,
+      "growth_form": null,
+      "growth_habit": "Forb/herb",
+      "growth_rate": null,
+      "average_height": {
+        "cm": null
+      },
+      "maximum_height": {
+        "cm": null
+      },
+      "nitrogen_fixation": null,
+      "shape_and_orientation": null,
+      "toxicity": null
+    }
+  }
+]
